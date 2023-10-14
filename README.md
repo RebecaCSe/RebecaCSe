@@ -9,7 +9,7 @@
 - 📖 Soy estudiante de último año de la licenciatura en actuaría
 - 🖥️ Estoy interesada en el Data Analyst y la programación, pricipalmente manejo Python, pero también tengo unos pocos conocimientos en R y SQL
 - ⭐ También tengo conocimientos en PowerBI, SAS y LaTeX
-- 📊 Añadiendo tengo certificaciones en Google Analytics y Google Ads
+- 🔎 Añadiendo tengo certificaciones en Google Analytics y Google Ads
 - 📩 Pueden contactarme en mi correo **rebe.cserafin@gmail.com**
 <br>
 
@@ -24,7 +24,7 @@
 </div>
 
 
-### ⚙️ &nbsp;GitHub Analytics
+### 📊 &nbsp;Estadísticas
 
 <p align="center">
 <a href="https://github.com/ArisGuimera">
