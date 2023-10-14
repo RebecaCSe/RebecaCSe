@@ -1,4 +1,4 @@
-<div align="center">
+<div id = "header" align = "center">
 <h1 align="center">Hola, soy Rebeca Cruz👋</h1>
 </div>
 <img src="https://media.tenor.com/FhUWPQ-ByIsAAAAC/%EB%A1%9C%EC%A0%9C-blackpink.gif">
