@@ -1,14 +1,14 @@
 <div id = "header" align = "center">
 <h1 align="center">Hola, soy Rebeca Cruz👋</h1>
 </div>
-<img src="https://media.tenor.com/FhUWPQ-ByIsAAAAC/%EB%A1%9C%EC%A0%9C-blackpink.gif">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3IzdHJyOTI2Zm16ajFqOHgybGRwbGI5aWtld2h2ZHM2cjJ6M2oxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wcgn5fVDjvR7pdvz4C/giphy.gif">
 
 
 ## Sobre mi 👀
 
 - 📖 Soy estudiante de último año de la licenciatura en actuaría
 - 🖥️ Estoy interesada en el Data Analyst y la programación, pricipalmente manejo Python, pero también tengo unos pocos conocimientos en R y SQL
-- ⭐ También tengo conocimientos en PowerBI, SAS y LaTeX
+- ⭐ También tengo conocimientos en PowerBI y LaTeX
 - 🔎 Añadiendo tengo certificaciones en Google Analytics y Google Ads
 - 📩 Pueden contactarme en mi correo **rebe.cserafin@gmail.com**
 <br>
