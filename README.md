@@ -7,8 +7,8 @@
 ## Sobre mi 👀
 
 - 📖 Soy estudiante de último año de la licenciatura en actuaría
-- 🖥️ Estoy interesada en el Data Analyst y la programación, pricipalmente manejo Python, pero también tengo unos pocos conocimientos en R y SQL
-- ⭐ También tengo conocimientos en PowerBI y LaTeX
+- 🖥️ Estoy interesada en el Data Analyst y la programación, pricipalmente manejo Python, pero cuento con conocimientos básicos de R y SQL
+- ⭐ Así mismo, poseo conocimientos en PowerBI y LaTeX
 - 🔎 Añadiendo tengo certificaciones en Google Analytics y Google Ads
 - 📩 Pueden contactarme en mi correo **rebe.cserafin@gmail.com**
 <br>
